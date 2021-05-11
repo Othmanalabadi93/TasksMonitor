@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Programming\Back End\Visual Studio 2019\TaskMonitor\TaskMonitor\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frm\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmSetPassowrd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmRecovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmRecoveryAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmTask.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm\frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

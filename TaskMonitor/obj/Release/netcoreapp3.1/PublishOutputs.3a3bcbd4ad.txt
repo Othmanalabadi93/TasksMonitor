@@ -1,0 +1,7 @@
+D:\Desktop Share\task\TaskMonitor.exe
+D:\Desktop Share\task\TaskMonitor.dll
+D:\Desktop Share\task\TaskMonitor.deps.json
+D:\Desktop Share\task\TaskMonitor.runtimeconfig.json
+D:\Desktop Share\task\TaskMonitor.pdb
+D:\Desktop Share\task\FontAwesome.Sharp.dll
+D:\Desktop Share\task\Newtonsoft.Json.dll
