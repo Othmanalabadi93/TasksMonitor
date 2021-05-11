@@ -17,7 +17,11 @@ namespace TaskMonitor
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm.frmMain());
+
+            if (Properties.Settings.Default.isSecurity)
+                Application.Run(new frm.frmLogin());
+            else
+                Application.Run(new frm.frmMain());
         }
     }
 }

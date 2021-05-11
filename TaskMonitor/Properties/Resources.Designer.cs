@@ -63,9 +63,9 @@ namespace TaskMonitor.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ic_call {
+        internal static System.Drawing.Bitmap ic_check_circle {
             get {
-                object obj = ResourceManager.GetObject("ic_call", resourceCulture);
+                object obj = ResourceManager.GetObject("ic_check_circle", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,29 @@ namespace TaskMonitor.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ic_location_on {
+        internal static System.Drawing.Bitmap ic_check_circle_outline {
             get {
-                object obj = ResourceManager.GetObject("ic_location_on", resourceCulture);
+                object obj = ResourceManager.GetObject("ic_check_circle_outline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ic_delete_forever {
+            get {
+                object obj = ResourceManager.GetObject("ic_delete_forever", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ic_panorama_fish_eye {
+            get {
+                object obj = ResourceManager.GetObject("ic_panorama_fish_eye", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -86,6 +106,16 @@ namespace TaskMonitor.Properties {
         internal static System.Drawing.Bitmap logo {
             get {
                 object obj = ResourceManager.GetObject("logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap myPicturePrimary2 {
+            get {
+                object obj = ResourceManager.GetObject("myPicturePrimary2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
